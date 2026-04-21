@@ -102,8 +102,8 @@ npm run dev
 
 ## 👨‍💻 Contributions
 
- **Sai Rahul Urumu**  
+ **Anshika Goswami**  
   *Full Stack Developer – Implemented everything*  
-  [LinkedIn Profile](https://www.linkedin.com/in/usrahul)
+  [LinkedIn Profile](https://www.linkedin.com/in/anshikaa8/)
 
 
